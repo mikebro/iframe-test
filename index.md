@@ -1,13 +1,13 @@
+    <div id="amilia"><iframe id="amilia-iframe" allowtransparency="true" frameborder="0" width="100%" style="width:100%!important; border:none!important; overflow:hidden!important; visibility:hidden;" scrolling="no" horizontalscrolling="no" verticalscrolling="no" data-color-code="#46AAF8" src="https://www.amilia.com/store/en/demo-amilia-swim-club/shop/programs"></iframe>
+    <script src="https://www.amilia.com/scripts/amilia-iframe.js" type="text/javascript"></script></div>
+    
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mikebro/iframe-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    <!-- Embed this code in your page.-->
-    <div id="amilia"><iframe id="amilia-iframe" allowtransparency="true" frameborder="0" width="100%" style="width:100%!important; border:none!important; overflow:hidden!important; visibility:hidden;" scrolling="no" horizontalscrolling="no" verticalscrolling="no" data-color-code="#46AAF8" src="https://www.amilia.com/store/en/demo-amilia-swim-club/shop/programs"></iframe>
-    <script src="https://www.amilia.com/scripts/amilia-iframe.js" type="text/javascript"></script></div>
-    <!-- End of Amilia embed -->
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
